@@ -3,7 +3,7 @@ const dotenv = require('dotenv');
 const { default: axios } = require("axios");
 dotenv.config();
 
-// const Token = '7445815392:AAHmrm31YYmKqgi9zKsZvJfma6oHNo_OGQM';
+// const Token = '7445815......:......qgi9zKsZvJfma6oHNo_OGQM';
 //console.log(process.env);
 
 // create a bot onject that uses polling to fetch update....
